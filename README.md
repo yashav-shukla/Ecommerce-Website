@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
 ## Visut this site
 
-- link : []
+- link : [https://30dc-website.vercel.app/]
 
 
 
